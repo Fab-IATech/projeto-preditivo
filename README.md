@@ -81,5 +81,4 @@ projeto-preditivo/
 ```
 
 ## 7. Links das evidências
-- Vídeo de apresentação (Google Drive, acesso "qualquer pessoa com o link"): **<COLE_AQUI_O_LINK>**
-- Repositório GitHub: **<COLE_AQUI_O_LINK>**
+- Repositório GitHub: **(https://github.com/Fab-IATech/projeto-preditivo.)**
