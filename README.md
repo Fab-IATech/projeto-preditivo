@@ -11,7 +11,7 @@
 Resultados no conjunto de teste (20%, estratificado): acurácia ≈ 0,947 · F1 ≈ 0,958 · ROC-AUC ≈ 0,990.
 
 ## 3. Tecnologias utilizadas
-FastAPI · Uvicorn · Pydantic v2 · scikit-learn · pandas · joblib · Jupyter Notebook · pytest
+Python 3.11 ou superior · FastAPI 0.159.1 · Uvicorn 0.54.0 · Pydantic 2.14.1 · scikit-learn 1.8.0 · pandas 3.0.2 · numpy 2.4.4 · joblib 1.5.3 · pytest 9.1.1 · httpx 0.28.1 · Jupyter Notebook
 
 ## 4. Instruções de instalação e execução
 ```bash
